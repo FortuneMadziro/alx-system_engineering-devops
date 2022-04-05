@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -i 's/Z/A/g; s/e/c/g;' 
+sed 's/Z/A/g; s/e/c/g;' 
